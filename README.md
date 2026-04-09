@@ -45,7 +45,7 @@ Follow these steps to set up the project:
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/shivampoojanyadav/Employees-directory-project.git
 
 # Move into the project folder
 cd employee-directory
